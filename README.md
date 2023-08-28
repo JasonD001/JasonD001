@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JasonD001
+- 👀 I’m interested in FULL STACK WED DEVLOPMENT 
+- 🌱 I’m currently learning JAVASCRIPT
