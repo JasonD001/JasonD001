@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @JasonD001
-- 👀 I’m interested in FULL STACK WED DEVLOPMENT 
-- 🌱 I’m currently learning JAVASCRIPT
+- 👋 Hi, I’m RAHUL
+- 👀 I’m interested in AI and ML
+- 🌱 I’m currently learning PYTHON
