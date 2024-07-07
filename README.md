@@ -1,3 +1,3 @@
 - 👋 Hi, I’m RAHUL
-- 👀 I’m interested in AI and ML
+- 👀 I’m interested in DEVOPS
 - 🌱 I’m currently learning PYTHON
